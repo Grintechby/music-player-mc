@@ -40,7 +40,7 @@ async function generateTracks() {
         id: index + 1,
         title,
         artist: artist || 'Unknown Artist',
-        src: `/${fileName}`,
+        src: `/music-player-mc/${fileName}`,
         durationSeconds,
       };
     }),
