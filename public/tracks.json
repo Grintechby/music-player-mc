@@ -4,21 +4,21 @@
       "id": 1,
       "title": "I Got Love",
       "artist": "Miyagi  Эндшпиль  Рем Дигга",
-      "src": "/Miyagi  Эндшпиль  Рем Дигга - I Got Love.mp3",
+      "src": "/music-player-mc/Miyagi  Эндшпиль  Рем Дигга - I Got Love.mp3",
       "durationSeconds": 276.68897959183676
     },
     {
       "id": 2,
       "title": "Кукла колдуна",
       "artist": "Король и Шут",
-      "src": "/Король и Шут - Кукла колдуна.mp3",
+      "src": "/music-player-mc/Король и Шут - Кукла колдуна.mp3",
       "durationSeconds": 203.93795918367346
     },
     {
       "id": 3,
       "title": "Я не хочу",
       "artist": "Скриптонит  104",
-      "src": "/Скриптонит  104 - Я не хочу.mp3",
+      "src": "/music-player-mc/Скриптонит  104 - Я не хочу.mp3",
       "durationSeconds": 205.19183673469388
     }
   ]
